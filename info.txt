@@ -1,1 +1,2 @@
 Hi! It's just a simple test for understanding how to git works
+new line
